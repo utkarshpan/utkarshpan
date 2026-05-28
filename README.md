@@ -7,44 +7,50 @@
 
 ---
 
-# 💫 About Me
+# 👋 About Me
 
-🔐 Passionate about Cybersecurity and AI-based systems  
-💻 Building real-world Python and Security projects  
-📱 Exploring Android Development with Kotlin  
-🚀 Interested in Automation, AI, and Secure Applications  
-🎯 Goal: Become a skilled Security Engineer & Developer  
+💻 Second-year Computer Engineering student passionate about Cybersecurity, AI, and building real-world applications.
+
+🔐 Interested in secure systems, phishing detection, scam prevention, and AI-powered solutions.
+
+🚀 Currently improving my skills in Python, Machine Learning, Android Development, Git, and Linux while building practical projects and participating in hackathons.
+
+🎯 Goal: To become a skilled Security Engineer and Software Developer focused on secure and scalable technologies.
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/utkarsh-pandey-95507631b" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
-</a>
 
 <a href="https://github.com/utkarshpan" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
 </a>
+
+<a href="https://www.linkedin.com/in/utkarsh-pandey-95507631b" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
+
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-## Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-## Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00C853?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-2962FF?style=for-the-badge)
 
 ---
 
@@ -61,6 +67,16 @@ Blockchain-based security project for secure data handling.
 
 ## 🔹 Product Market Analysis System
 Python + SQL project for analyzing product trends and insights.
+
+---
+
+# ⚡ Currently Learning
+
+- Advanced Python
+- Machine Learning
+- Linux & Networking
+- Android Development
+- Cybersecurity Concepts
 
 ---
 
